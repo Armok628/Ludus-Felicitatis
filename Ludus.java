@@ -23,7 +23,7 @@ public class Ludus
 	public boolean inBattle = false;
 	public static void main(String[] args)
 	{
-		out.println("Ludus Felicitatis, a M. Johanifilii \nJanuarius A.D. MMXVI ad nunc\n926 ordines scriptorum adhuc\n");
+		out.println("Ludus Felicitatis, a M. Johanifilii \nJanuarius A.D. MMXVI ad Martium\n926 ordines scriptorum adhuc\n");
 		/*Put / after this asterisk to enable debug features (DEPRECATED)*
 		out.print("Volasne vidare si errores sunt? ");
 		if (GetInput.yes())
