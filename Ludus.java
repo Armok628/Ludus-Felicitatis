@@ -33,7 +33,7 @@ public class Ludus
 		out.print("Latina: Quid est tua lingua?\nEnglish: What is your language?\n");
 		Translation.setLang(GetInput.string());
 		if (Translation.language.equals("Latina"))
-			out.print("\nQuid est nomen tuus? ");
+			out.print("\nQuid est nomen tibi? ");
 		else if (Translation.language.equals("English"))
 			out.print("\nWhat is your name? ");
 		player = new Player(GetInput.string());
