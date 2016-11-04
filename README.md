@@ -1,4 +1,4 @@
 # Ludus-Felicitatis
-I wrote this game in (not for) Computer Science class out of boredom.
+I wrote this simple text adventure game during Computer Science (not as an assignment) out of boredom, after all my work was finished.
 
-It may not ever be updated again.
+It will probably not ever be updated again.
